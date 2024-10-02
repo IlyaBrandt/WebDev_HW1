@@ -20,7 +20,7 @@ img {
 
 /* CSS Display */
 ul.sub-list {
-    display: none; /* Example: initially hidden sub-lists for work experience */
+    display: none; 
 }
 
 ul.sub-list li {
